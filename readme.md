@@ -12,7 +12,7 @@ provides station selection endpoints for Node-RED/KIP embedded controls.
 
 ## Requirements
 
-- Signal K Node Server
+- Signal K Node Server  /NodeRED /KIP
 - Node.js 18 or newer
 - Internet access from the Signal K server
 
@@ -178,6 +178,8 @@ self.environment.tide.curve.prediction
 ```
 
 These are intended for a custom/embedded KIP page or a Node-RED mini page.
+<img width="1915" height="910" alt="Screenshot 2026-08-17 171006" src="https://github.com/user-attachments/assets/07b3fea7-c957-4fc3-bd09-c4559226fd75" />
+<img width="1915" height="910" alt="Screenshot 2026-08-17 171006" src="https://github.com/user-attachments/assets/670a675a-a4aa-4a7f-9437-5cbd7bba4c8e" />
 
 ## Notes
 
