@@ -1,4 +1,4 @@
-# Signalk-BSH-tides v1.0.12
+# Signalk-BSH-tides v1.0.24
 
 <img width="1909" height="915" alt="Screenshot 2026-08-17 171926" src="https://github.com/user-attachments/assets/eb6f0bc8-48d1-4df0-9a97-49f479da867f" />
 <img width="1670" height="796" alt="Screenshot 2026-08-17 172058" src="https://github.com/user-attachments/assets/8f99e1f9-25af-4b5b-8198-c235c6b8f7d8" />
