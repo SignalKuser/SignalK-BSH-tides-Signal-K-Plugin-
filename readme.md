@@ -187,8 +187,8 @@ self.environment.tide.curve.prediction
 These are intended for a custom/embedded KIP page or a Node-RED mini page.
 
 ## NodeRED
-for the KIP embedded Page (Tidecurve) i use a NodeRED Flow
-see Download.
+for the KIP embedded Page (Tidecurve) use a NodeRED Flow
+see Download for the flow.
 <img width="1183" height="452" alt="Screenshot 2026-08-17 171737" src="https://github.com/user-attachments/assets/b42b9133-fb2e-4685-8997-25fe316476b0" />
 
 
