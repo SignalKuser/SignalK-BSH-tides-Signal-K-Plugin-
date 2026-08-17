@@ -1,0 +1,30 @@
+﻿{
+  "name": "signalk-bsh-tides",
+  "version": "1.0.24",
+  "description": "Signal K plugin for BSH water level and tide forecasts with KIP embed and offline curve cache",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-category-utility",
+    "signalk",
+    "bsh",
+    "tide",
+    "waterlevel"
+  ],
+  "author": "",
+  "license": "MIT",
+  "signalk-plugin-enabled-by-default": true,
+  "signalk": {
+    "displayName": "BSH Water Level Forecast v1.0.24"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+
+
