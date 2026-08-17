@@ -1,5 +1,11 @@
 # Signalk-BSH-tides v1.0.12
 
+<img width="1670" height="796" alt="Screenshot 2026-08-17 172058" src="https://github.com/user-attachments/assets/8f99e1f9-25af-4b5b-8198-c235c6b8f7d8" />
+<img width="1664" height="821" alt="Screenshot 2026-08-17 172034" src="https://github.com/user-attachments/assets/a27fe5ff-714f-4599-9593-f6ebc263a29a" />
+<img width="1613" height="844" alt="Screenshot 2026-08-17 172022" src="https://github.com/user-attachments/assets/5eacd5a3-0207-4712-b453-9d37e9b2435d" />
+<img width="1909" height="915" alt="Screenshot 2026-08-17 171926" src="https://github.com/user-attachments/assets/eb6f0bc8-48d1-4df0-9a97-49f479da867f" />
+
+
 Version: `1.0.12`
 
 Signal K plugin for the BSH water level forecast API:
@@ -178,6 +184,11 @@ self.environment.tide.curve.prediction
 ```
 
 These are intended for a custom/embedded KIP page or a Node-RED mini page.
+
+## NodeRED
+for the KIP embedded Page (Tidecurve) i use a NodeRED Flow
+see Download.
+<img width="1183" height="452" alt="Screenshot 2026-08-17 171737" src="https://github.com/user-attachments/assets/b42b9133-fb2e-4685-8997-25fe316476b0" />
 
 
 
