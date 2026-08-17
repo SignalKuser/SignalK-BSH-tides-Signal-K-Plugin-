@@ -1,4 +1,4 @@
-# signalk-bsh-tides
+# Signalk-BSH-tides v1.0.12
 
 Version: `1.0.12`
 
